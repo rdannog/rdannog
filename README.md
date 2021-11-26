@@ -5,7 +5,7 @@
 <!--*************** Contact ***************-->
 <div>
   <br>
-  <a href="#">
+  <a href="https://www.rdannog.github.io">
     <img 
       src="https://img.shields.io/badge/Portfolio-323330?style=for-the-badge&amp;logo=Google-chrome&amp;logoColor=F7DF1E" 
       alt="portfolio">
@@ -15,16 +15,16 @@
       src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" 
       alt="resume">
   </a>
-  <a href="mailto:rhayssadandara98@gmail.com">
+  <a href="mailto:dandaro.nogueira@gmail.com">
     <img 
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=Gmail&amp;logoColor=white" alt="gmail">
   </a>
-  <a href="https://www.instagram.com/rhayssadandara/">
+  <a href="https://www.instagram.com/rdannog/">
     <img 
       src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" 
       alt="instagram">
   </a>
-  <a href="https://www.linkedin.com/in/rhayssadandara/">
+  <a href="https://www.linkedin.com/in/dandaronogueira/">
     <img 
       src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&amp;logo=LinkedIn&amp;logoColor=white" 
       alt="linked-in">
