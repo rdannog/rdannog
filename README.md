@@ -5,15 +5,10 @@
 <!--*************** Contact ***************-->
 <div>
   <br>
-  <a href="https://www.rdannog.github.io">
+  <a href="https://rdannog.github.io" target="_blank">
     <img 
       src="https://img.shields.io/badge/Portfolio-323330?style=for-the-badge&amp;logo=Google-chrome&amp;logoColor=F7DF1E" 
       alt="portfolio">
-  </a>
-  <a href="#">
-    <img 
-      src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&amp;logo=read-the-docs&amp;logoColor=white" 
-      alt="resume">
   </a>
   <a href="mailto:dandaro.nogueira@gmail.com">
     <img 
@@ -54,7 +49,7 @@
     <br/>
     <li>❤️ Interests: 💻 watch video essays on youtube, David Bowie, documental series, Drag Race, 🎶 listen to music and 📚 read books.</li><br/>
     <li>🎨 I love doing analog collages, watercolor paintings, singing and checking if my cactus are growing (they are growing nice)</li><br/>
-    <li>😇 I'm 23, identify myself as a non-binary person and I'm also a gemini</li><br/>
+    <li>😇 I'm 23, identify myself as a non-binary person and I'm also a gemini. My pronoums are he/they.</li><br/>
   </ul>
 </div>
 
