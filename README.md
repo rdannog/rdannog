@@ -1,4 +1,4 @@
-<h1>Hi there 👋, I'm Dandaro 🧑🏾‍💻</h1>
+<h1>Hi there 👋, I'm Dan 🧑🏾‍💻</h1>
 <h2>A curious frontend developer from Brazil ✨</h2>
 
 
