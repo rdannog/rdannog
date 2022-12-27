@@ -37,9 +37,9 @@
   <h3>🚀 About me...</h3>
   <br>
   <ul>
-    <li>🧑🏾‍💻 Front-end developer React.js and also a person.</li><br/>
+    <li>🧑🏾‍💻 I'm a Front-end developer </li><br/>
     <li>📌 I live in Rio de Janeiro</li><br/>
-    <li>🚀 I'm currently a front-end development student delighted with the power of programming and I also teach HTML, CSS and React JS to begginer students.</li><br/>
+    <li>🚀 I'm currently a front-end development student, delighted with the power of programming and I also teach HTML, CSS and React JS to begginer students.</li><br/>
     <li>🌱 I’m going deeper into HTML5, CSS3 and JavaScript.</li><br/>
     <li>📚🎓👨‍🎓 I'm an undergraduate student in Social Sciences, with major in digital sociology studies.</li><br/>
     <li>🤓 I'm learning front-end development with technologies: ReactJS, GatsbyJS, Styled-Components, GraphQL, and Git flow.</li><br/>
@@ -49,7 +49,7 @@
     <br/>
     <li>❤️ Interests: 💻 watch video essays on youtube, David Bowie, documental series, Drag Race, 🎶 listen to music and 📚 read books.</li><br/>
     <li>🎨 I love doing analog collages, watercolor paintings, singing and checking if my cactus are growing (they are growing nice)</li><br/>
-    <li>😇 I'm 23, identify myself as a non-binary person and I'm also a gemini. My pronoums are he/they.</li><br/>
+    <li>😇 I'm 24, identify myself as a transmasculine non-binary person and I'm also a gemini. My pronoums are he/they.</li><br/>
   </ul>
 </div>
 
