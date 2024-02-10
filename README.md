@@ -5,11 +5,6 @@
 <!--*************** Contact ***************-->
 <div>
   <br>
-  <a href="https://rdannog.github.io" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/Portfolio-323330?style=for-the-badge&amp;logo=Google-chrome&amp;logoColor=F7DF1E" 
-      alt="portfolio">
-  </a>
   <a href="mailto:dandaro.nogueira@gmail.com">
     <img 
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=Gmail&amp;logoColor=white" alt="gmail">
