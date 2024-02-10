@@ -1,5 +1,5 @@
 <h1>Hi there 👋, I'm Dan 🧑🏾‍💻</h1>
-<h2>A curious frontend developer from Brazil ✨</h2>
+<h2>A curious developer from Brazil ✨</h2>
 
 
 <!--*************** Contact ***************-->
@@ -14,7 +14,7 @@
     <img 
       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=Gmail&amp;logoColor=white" alt="gmail">
   </a>
-  <a href="https://www.instagram.com/rdannog/">
+  <a href="https://www.instagram.com/_dannogueira/">
     <img 
       src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" 
       alt="instagram">
@@ -39,17 +39,16 @@
   <ul>
     <li>🧑🏾‍💻 I'm a Front-end developer </li><br/>
     <li>📌 I live in Rio de Janeiro</li><br/>
-    <li>🚀 I'm currently a front-end development student, delighted with the power of programming and I also teach HTML, CSS and React JS to begginer students.</li><br/>
-    <li>🌱 I’m going deeper into HTML5, CSS3 and JavaScript.</li><br/>
-    <li>📚🎓👨‍🎓 I'm an undergraduate student in Social Sciences, with major in digital sociology studies.</li><br/>
-    <li>🤓 I'm learning front-end development with technologies: ReactJS, GatsbyJS, Styled-Components, GraphQL, and Git flow.</li><br/>
+    <li>🚀 I'm currently a data science student, delighted with the power of programming and I also teach HTML, CSS and React JS to begginer students.</li><br/>
+    <li>🌱 I’m going deeper into R, Python and Java.</li><br/>
+    <li>📚🎓👨‍🎓 I'm a graduate student in Sociology and Anthropology.</li><br/>
     <li>🇺🇸 Practicing english to achieve fluency.</li><br/>
     <li>🤔 I'm looking to help with social impact projects.</li><br/>
     <li>💬 Any help or tips is always welcome! (seriously)</li><br/>
     <br/>
     <li>❤️ Interests: 💻 watch video essays on youtube, David Bowie, documental series, Drag Race, 🎶 listen to music and 📚 read books.</li><br/>
     <li>🎨 I love doing analog collages, watercolor paintings, singing and checking if my cactus are growing (they are growing nice)</li><br/>
-    <li>😇 I'm 24, identify myself as a transmasculine non-binary person and I'm also a gemini. My pronoums are he/they.</li><br/>
+    <li>😇 I'm 25, identify myself as a transmasculine person and I'm also a gemini. My pronoums are he/him.</li><br/>
   </ul>
 </div>
 
@@ -104,7 +103,7 @@
     alt="Git" />
   <img 
     src="https://img.shields.io/badge/Ubuntu-e95420?style=for-the-badge&amp;logo=ubuntu&amp;logoColor=white" 
-    alt="ubuntu 21.10">
+    alt="ubuntu 23.04">
   <img 
     src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&amp;logo=Visual-Studio-Code&amp;logoColor=white" 
     alt="vs-code">
