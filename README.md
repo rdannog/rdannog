@@ -32,14 +32,13 @@
   <h3>🚀 About me...</h3>
   <br>
   <ul>
-    <li>🧑🏾‍💻 I'm a Front-end developer </li><br/>
+    <li>🧑🏾‍💻 I'm a developer who uses technology to make a positive impact on society. </li><br/>
     <li>📌 I live in Rio de Janeiro</li><br/>
     <li>🚀 I'm currently a data science student, delighted with the power of programming and I also teach HTML, CSS and React JS to begginer students.</li><br/>
     <li>🌱 I’m going deeper into R, Python and Java.</li><br/>
     <li>📚🎓👨‍🎓 I'm a graduate student in Sociology and Anthropology.</li><br/>
     <li>🇺🇸 Practicing english to achieve fluency.</li><br/>
-    <li>🤔 I'm looking to help with social impact projects.</li><br/>
-    <li>💬 Any help or tips is always welcome! (seriously)</li><br/>
+    <li>💬 Any help or tips are always welcome! (seriously)</li><br/>
     <br/>
     <li>❤️ Interests: 💻 watch video essays on youtube, David Bowie, documental series, Drag Race, 🎶 listen to music and 📚 read books.</li><br/>
     <li>🎨 I love doing analog collages, watercolor paintings, singing and checking if my cactus are growing (they are growing nice)</li><br/>
