@@ -24,7 +24,7 @@
     
 -   ❤️ Interests: watch video essays on youtube, David Bowie, documental series, Drag Race, listen to music and read books.
   
--   🎨 I love doing analog collages, watercolor paintings, singing and checking if my cactus are growing (it is are growing nice)
+-   🎨 I love doing analog collages, watercolor paintings, and singing.
   
 -   😇 I'm 25, identify myself as a transmasculine person and I'm also a gemini. My pronoums are he/him.
   
