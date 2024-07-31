@@ -14,11 +14,11 @@
   
 -   📌 I live in Rio de Janeiro
   
--   🚀 I'm currently a data science student, delighted with the power of programming and I also teach HTML, CSS and React JS to begginer students.
+-   🚀 I'm currently a data analysis student, delighted with the power of programming.
   
 -   🌱 I’m going deeper into R, Python and Java.
   
--   👨‍🎓 I'm a graduate student in Sociology and Anthropology.
+-   👨‍🎓 I'm a graduate student in Sociology and I also teach HTML, CSS and React JS to begginer students.
   
 -  📚 Practicing english to achieve fluency.
     
@@ -26,7 +26,7 @@
   
 -   🎨 I love doing analog collages, watercolor paintings, and singing.
   
--   😇 I'm 25, identify myself as a transmasculine person and I'm also a gemini. My pronoums are he/him.
+-   😇 I'm 26, identify myself as a transmasculine person and I'm also a gemini. My pronoums are he/him.
   
 
 ----------
